@@ -40,9 +40,5 @@ Feel free to explore the projects by navigating to the respective files. Each sc
 
 If you want to run any of these scripts locally, ensure you have the necessary dependencies installed. You may need to modify the file paths or configurations based on your environment.
 
-## About Me
-
-Include a brief section about yourself, your background, and your interests in data science and analytics.
-
 
 Happy coding!
